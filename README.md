@@ -1,1 +1,2 @@
-live website(image-generator-ameer.netlify.app)
+live website(https://image-generator-ameer.netlify.app/)
+
